@@ -72,7 +72,6 @@ Develop algorithms that appreciate and exploit hardware properties—cache lines
 
 Effective profiling is essential to identify and mitigate performance bottlenecks. Tools and methods discussed include:
 
-
 - **Perf and perf-stat:** Useful for measuring various performance metrics like CPU instructions per cycle.
 - **Top-Down Microarchitecture Analysis Method (TMA):** Classifies CPU cycles into categories that help identify bottlenecks.
 - **Branchless Algorithms:** Reducing branch mispredictions can significantly improve performance in high-frequency trading scenarios.(Branchless binary search)
@@ -126,6 +125,5 @@ Being fast is good but staying fast is better
 ### Final Thoughts
 
 In conclusion, engineering low latency trading systems is an intricate balance of simplicity, mechanical sympathy, and continuous performance monitoring. Drawing inspiration from ancient practices like the Roman future contracts and employing modern hardware-aware algorithms pave the way for efficient and accurate trading systems.
-
 Remaining disciplined in adhering to these principles ensures that not only are our systems fast today, but they remain robust and performant well into the future.
 
